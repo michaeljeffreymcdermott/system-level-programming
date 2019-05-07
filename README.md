@@ -1,0 +1,2 @@
+# system-level-programming
+System-Level Programming. Prerequisite: CSc 1302, and CSc 2510 or Math 2420 with grades of “C” or higher.Students must meet the Computer Science Major Eligibility Requirement in order to enroll in this course. An introduction to programming at the level of the operating system. Topics include editors, system calls, programming tools, files, processes, interprocess communication, and shells.
